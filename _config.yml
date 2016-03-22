@@ -1,0 +1,28 @@
+name: entrega-tanaj
+favicon: null
+layout_spectrum: 0.11781844403594732
+typography_spectrum: 0.3453206545673311
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9067487493157387
+  lightness: 0.5862054564058781
+  saturation: 0.3795512397773564
+  rhythmicContrast: 0.3958404022268951
+purpose: []
